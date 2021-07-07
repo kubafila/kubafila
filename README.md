@@ -1,4 +1,4 @@
-- 👋 Hello! I am 22 years old junior fronted devleoper
+- 👋 Hello! I am 23 years old junior fronted devleoper
 - 👀 I’m interested in web dev and electronics
 - 📫 Email me at [kontakt@kubafila.pl](mailto:kontakt@kubafila.pl) 
 
